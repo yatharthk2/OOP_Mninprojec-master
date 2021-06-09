@@ -61,7 +61,7 @@ public class BillingApp extends JFrame {
 			  }
 			});
 		
-		setTitle("Hungry Hobbit Cafeteria");
+		setTitle("MIT WPU CAFETERIA");
 		setBounds(100, 100, 550, 380);
 		setResizable(false);
 		contentPane = new JPanel();

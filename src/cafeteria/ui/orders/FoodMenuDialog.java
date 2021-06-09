@@ -70,7 +70,7 @@ public class FoodMenuDialog extends JDialog {
 			  }
 			});
 		
-		setTitle("Hungry Hobbit Cafeteria - Order Menu");		
+		setTitle("MIT WPU Cafeteria - Order Menu");
 		setBounds(100, 100, 680, 520);
 		getContentPane().setLayout(new BorderLayout());
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));

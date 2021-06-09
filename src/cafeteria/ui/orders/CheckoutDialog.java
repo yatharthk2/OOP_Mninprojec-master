@@ -67,7 +67,7 @@ public class CheckoutDialog extends JDialog {
 			  }
 			});
 		
-		setTitle("Hungry Hobbit Cafeteria - Checkout");
+		setTitle("MIT wpu Cafeteria - Checkout");
 		setBounds(100, 100, 640, 380);
 		getContentPane().setLayout(new BorderLayout());
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));

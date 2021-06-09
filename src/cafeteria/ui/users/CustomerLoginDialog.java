@@ -64,7 +64,7 @@ public class CustomerLoginDialog extends JDialog {
 	public CustomerLoginDialog() {
 		//this.setResizable(false);
 		
-		setTitle("Hungry Hobbit Cafeteria - Log In");
+		setTitle("MIT WPU Cafeteria - Log In");
 		setBounds(100, 100, 450, 300);
 		getContentPane().setLayout(new BorderLayout());
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));

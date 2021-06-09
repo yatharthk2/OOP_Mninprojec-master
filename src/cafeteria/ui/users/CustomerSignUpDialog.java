@@ -60,7 +60,7 @@ public class CustomerSignUpDialog extends JDialog {
 			  }
 			});
 		
-		setTitle("Hungry Hobbit Cafeteria - Sign Up");
+		setTitle("MIT WPU Cafeteria - Sign Up");
 		setBounds(100, 100, 450, 300);
 		getContentPane().setLayout(new BorderLayout());
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));

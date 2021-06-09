@@ -39,7 +39,7 @@ public class OrderHistoryDialog extends JDialog {
 	}
 
 	public OrderHistoryDialog() {
-		setTitle("Hungry Hobbit Cafeteria");
+		setTitle("MIT WPU Cafeteria");
 		setBounds(100, 100, 450, 300);
 		getContentPane().setLayout(new BorderLayout());
 		
